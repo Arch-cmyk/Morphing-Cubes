@@ -1,2 +1,5 @@
 # Morphing-Cubes
-Cubes that morph and can be toggled
+Cubes that morph and shape can be toggled!
+
+Includes a html and css file
+
